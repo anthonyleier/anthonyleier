@@ -1,4 +1,3 @@
-<div align="center">
-	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonyleier&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyleier&theme=dracula&layout=compact&langs_count=8"/>
-</div>
+![Imagem Header](https://raw.githubusercontent.com/anthonyleier/anthonyleier/assets/profile.png)
+Tenho paixão por programação e estou sempre buscando aprender algo novo. Me acompanhe no Linkedin.
+<a href="https://www.linkedin.com/in/anthonyleier/">linkedin.com/in/anthonyleier</a>
