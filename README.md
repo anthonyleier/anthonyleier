@@ -2,9 +2,11 @@
 
 -   🎓 Bacharel em Sistemas de Informação pelo IFSC, atuo como desenvolvedor backend.
 
--   🐍 Trabalho principalmente com Python e seus frameworks.
+-   🐍 Trabalho diariamente com Python, seus frameworks e suas bibliotecas.
 
--   📚 Estou me especializando no MBA Arquitetura Fullcycle (Soluções e Software).
+-   ☕ Me aprofundo nos conhecimentos do ecossistema Java.
+
+-   📚 Me especializando no MBA Arquitetura Fullcycle (Soluções e Software).
 
 -   🧑‍💻 Estou estudando desenvolvimento web através do curso.dev do Filipe Deschamps.
 
