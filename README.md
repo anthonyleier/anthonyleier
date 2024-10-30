@@ -1,27 +1,21 @@
 ## Sobre mim
-
--   🎓 Bacharel em Sistemas de Informação pelo IFSC, atuo como desenvolvedor backend.
-
--   🐍 Trabalho diariamente com Python, seus frameworks e suas bibliotecas.
-
--   ☕ Me aprofundo nos conhecimentos do ecossistema Java.
-
--   📚 Me especializando no MBA Arquitetura Fullcycle (Soluções e Software).
-
--   🧑‍💻 Estou estudando desenvolvimento web através do curso.dev do Filipe Deschamps.
-
--   🎼 Gosto de aplicar e praticar minhas habilidades com DDD, TDD, SOLID e Design Patterns.
-
--   🔤 Tenho boas bases de comunicação em inglês.
+- 💭 Desenvolvedor Backend
+- 🎓 Bacharel em Sistemas de Informação pelo IFSC
+- 🐍 Trabalho com Python, seus frameworks e bibliotecas (Flask, Django, FastAPI)
+- 📚 Me especializando no MBA Arquitetura Fullcycle
+- 🧑‍💻 Desenvolvendo para web com o Filipe Deschamps no curso.dev
+- 📩 Entre em contato, gosto de conhecer pessoas novas e participar de projetos
 
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="icons/python.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="icons/django.svg" title="Django" alt="Django" width="40" height="40"/>
+    <img src="icons/flask.png" title="Flask" alt="Flask" width="40" height="40"/>
+    <img src="icons/fastapi.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+    <img src="icons/postgres.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+    <img src="icons/git.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="icons/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
